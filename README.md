@@ -59,4 +59,4 @@ Project: Project 1 – Data Cleaning & Preparation
 Nazha Nasar
 
 📌 Note
-This project focuses on data preprocessing and preparation, which is a foundational step in any data analytics workflow before visualization or modeling
+This project focuses on data preprocessing and preparation, which is a foundational step in any data analytics workflow before visualization or modeling.
